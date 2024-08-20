@@ -59,7 +59,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["desarrollo frontend", "desarrolo backend", "diseño web", "desarrolo de BD", "analisar sistemas"],
+    strings: ["desarrollar frontend", "desarrolar backend", "el diseño web", "desarrolar DB", "analizar sistemas"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 35,
