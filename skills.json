@@ -59,5 +59,9 @@
     {
         "name":"Prolog",
         "icon": "https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://okitup.com/wp-content/uploads/2019/10/laravel.webp"
     }
 ]
